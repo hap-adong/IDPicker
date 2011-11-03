@@ -259,6 +259,7 @@ namespace Pep2RNASeq
                         IDPicker.VariantInfo vi = ri.info.peptides.Min;
                         string rawPepSequence = vi.ToString();
                         string pepSequence = vi.peptide.sequence;
+<<<<<<< HEAD
                         if (z == 0)
                         {
                             if (sItr.Value.id.charge.Equals(2) || sItr.Value.id.charge.Equals(3) || sItr.Value.id.charge.Equals(4))
@@ -271,6 +272,20 @@ namespace Pep2RNASeq
                         //{
                         //    if (sItr.Value.id.charge.Equals(z)) peptideList.Add(pepSequence);
                         //}
+=======
+                        //if (z == 0)
+                        //{
+                        //    if (sItr.Value.id.charge.Equals(2) || sItr.Value.id.charge.Equals(3) || sItr.Value.id.charge.Equals(4))
+                        //    {
+                        //        peptideList.Add(pepSequence);
+                        //    }
+                        //}
+                        if (z == 0) peptideList.Add(pepSequence);
+                        else
+                        {
+                            if (sItr.Value.id.charge.Equals(z)) peptideList.Add(pepSequence);
+                        }
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
                     }
             List<string> uniPepList = Package.removeDuplicate(peptideList);
 

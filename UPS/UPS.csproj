@@ -74,9 +74,12 @@
       <HintPath>..\..\..\idpicker\Common\bin\Debug\MSFileReader.XRawfile2.SxS.manifest</HintPath>
     </NativeReference>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <Content Include="TextFile1.txt" />
   </ItemGroup>
+=======
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

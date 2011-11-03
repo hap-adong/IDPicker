@@ -56,6 +56,11 @@ namespace IonRetrieval
                         {
                             string rawPepSequence = vi.ToString();
                             string interpretation = vi.ToSimpleString();
+<<<<<<< HEAD
+=======
+                            Console.WriteLine(interpretation);
+                            Console.WriteLine(vi.peptide.sequence);
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
                             // Look up the index with nativeID
                             object idOrIndex = null;
                             if (sItr.Value.nativeID != null && sItr.Value.nativeID.Length > 0)
@@ -487,7 +492,11 @@ namespace IonRetrieval
 
                             ///////////////////////////////////////////////
                             //  end of the long block
+<<<<<<< HEAD
                             //////////////////////////////////////////////
+=======
+                            ///////////////////////////////////////////////
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 
                             //string ionString = spectrumNativeID + "," + peptideSeq + "," + mvh + "," + mzFidelity + "," + totalIon + "," + matchedIon + "," + nmions;
                             //dict.Add(spectrumNativeID, ionString);
@@ -511,6 +520,7 @@ namespace IonRetrieval
 
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             //string idpxml_nm = "C:\\Documents and Settings\\wangd5\\Model12-28-10\\yeast_ORBI_nm.idpXML";
             //string idpxml_pm = "C:\\Documents and Settings\\wangd5\\Model12-28-10\\idpXML\\yeast_ORBI_pm.idpXML";
             //string mzML = "C:\\Documents and Settings\\wangd5\\Model12-28-10\\yeast_ORBI.mzML";
@@ -534,6 +544,108 @@ namespace IonRetrieval
                     file.WriteLine(dict[nativeID]);
                 }
             }
+=======
+            //string idpxml_nm = "Z:\\home\\dwang\\fragmentation\\LTQ\\yeast20090403\\MVH\\binary+2model\\mam_20090403x_Yeast_60nguL_1_naive.idpXML";
+            //string idpxml_pm = "Z:\\home\\dwang\\fragmentation\\LTQ\\yeast20090403\\MVH\\basophilenew\\mam_20090403x_Yeast_60nguL_1.idpXML";
+            //string mzML = "Z:\\home\\dwang\\fragmentation\\LTQ\\yeast20090403\\mam_20090403x_Yeast_60nguL_1.mzXML";
+            string idpXMLFile = "Z:\\home\\dwang\\fragmentation\\LTQ\\mam_20090403x_Yeast_60nguL_1.idpXML";
+            string pepXMLFile = "Z:\\home\\dwang\\fragmentation\\LTQ\\mam_20090403x_Yeast_60nguL_1.pepXML";
+            int z=2;
+            string output = "Z:\\home\\dwang\\fragmentation\\LTQ\\yeast20090403\\MVH\\charge2baso.csv";
+
+            //IDPicker.Workspace workspace = new IDPicker.Workspace();
+            //Package.loadWorkspace(ref workspace, idpXMLFile);
+
+
+            //MSDataFile foo = new MSDataFile(mzMLFile);
+            //SpectrumList sl = foo.run.spectrumList;
+
+            //foreach (IDPicker.SourceGroupList.MapPair groupItr in workspace.groups)
+            //    foreach (IDPicker.SourceInfo source in groupItr.Value.getSources(true))
+            //        foreach (IDPicker.SpectrumList.MapPair sItr in source.spectra)
+            //        {
+            //            IDPicker.ResultInstance ri = sItr.Value.results[1];
+            //            IDPicker.VariantInfo vi = ri.info.peptides.Min;
+            //            bool boolCharge = sItr.Value.id.charge.Equals(z);
+            //            if (boolCharge)
+            //            {
+            //                string rawPepSequence = vi.ToString();
+            //                string interpretation = vi.ToSimpleString();
+            //                Console.WriteLine(interpretation);
+            //                Console.WriteLine(vi.peptide.sequence);
+            //                // Look up the index with nativeID
+            //                object idOrIndex = null;
+            //                if (sItr.Value.nativeID != null && sItr.Value.nativeID.Length > 0)
+            //                {
+            //                    idOrIndex = sItr.Value.nativeID;
+            //                    idpxmlNativeIDDict.Add(idOrIndex.ToString(), interpretation);
+            //                }
+            //            }//end if (boolcharge)
+            //        }//end foreach
+
+
+            List<string> list = new List<string>();
+            using (XmlTextReader reader = new XmlTextReader(pepXMLFile))
+            {
+                string matchedIon = "";
+                string totalIon = "";
+                string spectrumNativeID = "";
+                while (reader.Read())
+                {
+                    if (reader.NodeType.Equals(XmlNodeType.Element) && reader.Name.Equals("spectrum_query"))
+                    {
+                        spectrumNativeID = reader.GetAttribute("spectrumNativeID");
+                        string assumed_charge = reader.GetAttribute("assumed_charge");
+
+                        if (/*idpxmlNativeIDDict.ContainsKey(spectrumNativeID) && */assumed_charge == z.ToString())
+                        {
+                            XmlReader subReader = reader.ReadSubtree();
+                            while (subReader.Read())
+                            {
+                                if (subReader.NodeType.Equals(XmlNodeType.Element) && subReader.Name.Equals("search_hit"))
+                                {
+                                    string hitRank = subReader.GetAttribute("hit_rank");
+                                    if (hitRank == "1")
+                                    {
+                                        matchedIon = subReader.GetAttribute("num_matched_ions");
+                                        totalIon = subReader.GetAttribute("tot_num_ions");
+                                        list.Add(matchedIon + "," + totalIon);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            
+            TextWriter file = new StreamWriter(output);
+            foreach (string ss in list)
+                file.WriteLine(ss);
+            file.Close();
+
+                 
+            //IonRetrieval.NativeIDComparison.nativeIDComp(idpxml_nm, idpxml_pm, mzML);
+            //Console.WriteLine();
+
+            //the following for pepxmlreader...........
+            //Console.WriteLine("usage: ionAcqusition <idpxml> <pepxml> <mzml>");
+            //string fileName = Path.GetFileNameWithoutExtension(args[0]);
+            //string filePath = Path.GetDirectoryName(args[0]);
+            //string csvFile = Path.Combine(filePath, fileName) + "_" + 3.ToString() + ".csv";
+
+            //Dictionary<string, string> dict = ionAcqusition(args[0], args[1], args[2], 0.98, 3);
+            //Console.WriteLine("writing into csv file...");
+            //using (StreamWriter file = new StreamWriter(csvFile))
+            //{
+            //    string head = "ID,pepSeq,mvh,mzF,totIon,matchedIon,A,B,C,D";
+            //    file.WriteLine(head);
+            //    foreach (string nativeID in dict.Keys)
+            //    {
+            //        file.WriteLine(dict[nativeID]);
+            //    }
+            //}
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
         }
     }
 }

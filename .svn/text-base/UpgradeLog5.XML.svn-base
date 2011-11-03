@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IDPicker">
+</Property><Property Name="Solution File" Value="Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\IDPicker.sln">
+</Property><Property Name="Date" Value="Tuesday, November 23, 2010">
+</Property><Property Name="Time" Value="17:26:37 PM">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\STL_Containers.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup4\STL_Containers.csproj">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\Map.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup4\Map.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup4\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\RBTree.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup4\RBTree.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\Set.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup4\Set.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\app.config" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup4\app.config">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\STL_Containers.snk" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup4\STL_Containers.snk">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\STL_Containers.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\STL_Containers.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="STL_Containers" Source="..\..\idpicker\Util\STL_Containers\app.config" Description="Converted">
+</Event></UpgradeLog>

@@ -8,9 +8,15 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ConsoleApplication2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
+<<<<<<< HEAD
 [assembly: AssemblyCompany("Vanderbilt University Medical Center")]
 [assembly: AssemblyProduct("ConsoleApplication2")]
 [assembly: AssemblyCopyright("Copyright © Vanderbilt University Medical Center 2011")]
+=======
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("ConsoleApplication2")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +26,11 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
+<<<<<<< HEAD
 [assembly: Guid("4886331f-c598-4d14-95b7-71116f836f0a")]
+=======
+[assembly: Guid("9c6ef8b8-5abe-43b6-882a-8405540a69ef")]
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 
 // Version information for an assembly consists of the following four values:
 //

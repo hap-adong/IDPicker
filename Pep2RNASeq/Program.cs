@@ -22,13 +22,127 @@ namespace Pep2RNASeq
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             
+=======
+            //Console.WriteLine("started");
+            //string naive = "Z:\\home\\dwang\\fragmentation\\UPS\\naive\\klc_031308p_cptac_study6_6_QC1.idpXML";
+            //string baso = "Z:\\home\\dwang\\fragmentation\\UPS\\basophilenew\\klc_031308p_cptac_study6_6_QC1.idpXML";
+            //for (int z=0; z<=4; z++)
+            //{
+            //    List<string> pep_naive = Package.PepSecurity(naive, z);
+            //    List<string> pep_baso = Package.PepSecurity(baso, z);
+            //    List<string> common = Package.findCommon(pep_baso, pep_naive);
+
+            //    Console.WriteLine("z==: " + z);
+            //    Console.WriteLine("pep in naive: " + pep_naive.Count);
+            //    Console.WriteLine("pep in baso: " + pep_baso.Count);
+            //    Console.WriteLine("common: " + common.Count);
+            
+            //}
+            
+            ///////////////////////////////////////////////////////////
+            //start myrimatch
+            ///////////////////////////////////////////////////////////
+            Dictionary<string, string> peptideDic = new Dictionary<string, string>();
+            TextReader file_temp = new StreamReader("X:\\wangd5\\idpXML_FDR1.00\\score evaluation\\merge.csv");
+            DataTable table_temp = CSV.CsvParser.Parse(file_temp, true);
+            foreach (DataRow dr in table_temp.Rows)
+            {
+                string pep = dr[2].ToString();
+                string decoy = dr[3].ToString();
+                if (!peptideDic.ContainsKey(pep))
+                    peptideDic.Add(pep, decoy);
+            }
+
+            string xml = "X:\\wangd5\\idpXML_FDR1.00\\myrimatch\\Assemble_MM.xml";
+            Dictionary<string,string> PSM = new Dictionary<string,string>();
+            Console.WriteLine("preparing reading idpXML");
+            int index = 0;
+            IDPicker.Workspace workspace = new IDPicker.Workspace();
+            Package.loadWorkspace(ref workspace, xml);
+            foreach (IDPicker.SourceGroupList.MapPair groupItr in workspace.groups)
+                foreach (IDPicker.SourceInfo source in groupItr.Value.getSources(true))
+                    foreach (IDPicker.SpectrumList.MapPair sItr in source.spectra)
+                    {
+                        IDPicker.ResultInstance ri = sItr.Value.results[1];
+                        IDPicker.VariantInfo vi = ri.info.peptides.Min;
+                        string pepSequence = vi.peptide.sequence;
+
+                        var scores = ri.searchScores.Values;
+                        float[] scoreArr = new float[2];
+                        scores.CopyTo(scoreArr, 0);
+                        float mvh = scoreArr[0];
+                        float mzfidelity = scoreArr[1];
+
+                        string z = sItr.Value.id.charge.ToString();
+
+                        string key = pepSequence + "." + index;
+
+                        PSM.Add(key, mvh + "," + mzfidelity + "," + z);
+                        
+                        index++;
+                    }
+
+
+
+
+
+
+            Console.WriteLine("preparing reading RNA-seq");
+            Dictionary<string, string> dic_RNASeq = new Dictionary<string, string>();
+            TextReader file_csv = new StreamReader("X:\\wangd5\\idpXML_FDR1.00\\score evaluation\\fdr1.0.csv");
+            DataTable table = CSV.CsvParser.Parse(file_csv, true);
+            foreach (DataRow dr in table.Rows)
+            {
+                string pep = dr[0].ToString();
+                string RNASeq = dr[4].ToString();
+                dic_RNASeq.Add(pep, RNASeq);
+            }
+
+            List<string> finalList = new List<string>();
+            int unmatched = 0;
+            foreach (string key in PSM.Keys)
+            {
+                string pep = key.Split('.')[0];
+                if (dic_RNASeq.ContainsKey(pep) && peptideDic.ContainsKey(pep))
+                {
+                    string rna = dic_RNASeq[pep];
+                    finalList.Add(pep + "," + PSM[key] + "," + peptideDic[pep] + "," + rna);
+                }
+                else unmatched++;
+            }
+
+            Console.WriteLine("information: unmatched number is: " + unmatched);
+
+            Console.WriteLine("preparing writing files...");
+            string output = "X:\\wangd5\\idpXML_FDR1.00\\score evaluation\\myrimatchscorecombination.csv";
+            TextWriter file = new StreamWriter(output);
+            file.WriteLine("pep,mvh,mz,z,rna");
+            foreach (string ss in finalList)
+            {
+                file.WriteLine(ss);
+            }
+            file.Close();
+
+            /////////////////////////////////////////////////////////////////////////
+            //for 3 search engines
+            ////////////////////////////////////////////////////////////////////////
+            /*
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
             //===========================================================
             string test_mm = "X:\\wangd5\\SW480\\MM\\FDR0.05\\mm.xml";
             string test_sq = "X:\\wangd5\\SW480\\SQ\\FDR0.05\\sq.xml";
             string test_xt = "X:\\wangd5\\SW480\\XT\\FDR0.05\\xt.xml";
             string test_p = "X:\\wangd5\\SW480\\evaluation\\p.csv";
 
+<<<<<<< HEAD
+=======
+            //string test_mm = "Z:\\home\\dwang\\fragmentation\\RNA-Seq\\RKO\\Assemble_MM.xml";
+            //string test_sq = "Z:\\home\\dwang\\fragmentation\\RNA-Seq\\RKO\\Assemble_SQ.xml";
+            //string test_xt = "Z:\\home\\dwang\\fragmentation\\RNA-Seq\\RKO\\Assemble_XT.xml";
+           
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
             //get peptides in p
             List<string> p = new List<string>();
             TextReader file_p = new StreamReader(test_p);
@@ -56,9 +170,12 @@ namespace Pep2RNASeq
             List<string> ms = Package.findCommon(m, s);
             List<string> xs = Package.findCommon(x, s);
             List<string> mxs = Package.findCommon(mx, s);
+<<<<<<< HEAD
            
 
 
+=======
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 
             ///////////////////////////////////////////////////////////////////////////////////////
 
@@ -67,7 +184,11 @@ namespace Pep2RNASeq
             //also, the file contains the RNASeq information
             Dictionary<string, string> dic_RNASeq = new Dictionary<string, string>();
             TextReader file_csv = new StreamReader("X:\\wangd5\\SW480\\evaluation\\PepRNA_FDR1.csv");
+<<<<<<< HEAD
             //TextReader file_csv = new StreamReader("X:\\wangd5\\idpXML_FDR1.00\\score evaluation\\fdr1.0.csvn");
+=======
+            //TextReader file_csv = new StreamReader("X:\\wangd5\\idpXML_FDR1.00\\score evaluation\\fdr1.0.csv");
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
             DataTable table = CSV.CsvParser.Parse(file_csv, true);
             foreach (DataRow dr in table.Rows)
             {
@@ -235,9 +356,15 @@ namespace Pep2RNASeq
             {
                 file.WriteLine(key + "," + dic_merge[key]);
             }
+<<<<<<< HEAD
             
              
         }
+=======
+            */
+             
+        }//end of main
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
         
     }
 }

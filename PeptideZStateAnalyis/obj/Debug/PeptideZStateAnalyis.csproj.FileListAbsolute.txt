@@ -44,3 +44,8 @@ C:\bumbershoot\Project\IDPicker\PeptideZStateAnalyis\bin\Debug\Native.IDPickerWo
 C:\bumbershoot\Project\IDPicker\PeptideZStateAnalyis\obj\Debug\PeptideZStateAnalyis.exe.manifest
 C:\bumbershoot\Project\IDPicker\PeptideZStateAnalyis\obj\Debug\PeptideZStateAnalyis.exe
 C:\bumbershoot\Project\IDPicker\PeptideZStateAnalyis\obj\Debug\PeptideZStateAnalyis.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\PeptideZStateAnalyis\obj\Debug\PeptideZStateAnalyis.exe
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\PeptideZStateAnalyis\obj\Debug\PeptideZStateAnalyis.pdb
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6

@@ -264,6 +264,7 @@ C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IdpReader\bin\Debug\MSF
 C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe.manifest
 C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe
 C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\idpReader.pdb
+<<<<<<< HEAD
 Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe
 Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IdpReader\obj\Debug\idpReader.pdb
 Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IdpReader\bin\Debug\idpReader.exe.manifest
@@ -306,3 +307,83 @@ Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IdpReader\obj\Debug\IdpRea
 Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe.manifest
 Z:\home\dwang\CodeBase\CSharpCopied\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe
 Z:\home\dwang\CodeBase\CSharpCopied\Project\IDPicker\IdpReader\obj\Debug\idpReader.pdb
+=======
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\idpReader.exe.manifest
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\idpReader.exe
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\idpReader.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Common.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\IDPickerWorkspace.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\pwiz_bindings_cli.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\STL_Containers.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.DataExplorer.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseCommon.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseDataAccess.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseError.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseTof.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\MassSpecDataReader.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.Factory.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.UntU2.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\agtsampleinforw.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Common.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\IDPickerWorkspace.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.MSFileReaderLib.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\boost_regex-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\boost_thread-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\CompassXtractMS.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\fileio.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\fregistry.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\libfftw3-3.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\libfftw3f-3.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\MSFileReader.XRawfile2.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\NTB-vc80-mt-4_3_61.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.EDAL.SxS.manifest
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\MSFileReader.XRawfile2.SxS.manifest
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\Interop.MSFileReaderLib.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\IdpReader.csproj.ResolveComReference.cache
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe.manifest
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\idpReader.exe
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\idpReader.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Common.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\IDPickerWorkspace.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\pwiz_bindings_cli.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\STL_Containers.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.DataExplorer.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseCommon.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseDataAccess.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseError.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BaseTof.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\MassSpecDataReader.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.Factory.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.UntU2.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\BDal.CXt.Lc.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.EDAL.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\agtsampleinforw.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Common.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\IDPickerWorkspace.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\idpReader.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\idpReader.exe.manifest
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.MSFileReaderLib.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\boost_regex-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\boost_thread-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\CompassXtractMS.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\fileio.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\fregistry.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\libfftw3-3.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\libfftw3f-3.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\MSFileReader.XRawfile2.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\NTB-vc80-mt-4_3_61.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\Interop.EDAL.SxS.manifest
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\bin\Debug\MSFileReader.XRawfile2.SxS.manifest
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\Interop.EDAL.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\Interop.MSFileReaderLib.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\IdpReader.csproj.ResolveComReference.cache
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\IdpReader\obj\Debug\idpReader.exe.manifest
+>>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6

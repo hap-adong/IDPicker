@@ -1,0 +1,5 @@
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\pepXMLReader\bin\Debug\pepXMLReader.exe
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\pepXMLReader\bin\Debug\pepXMLReader.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\pepXMLReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\pepXMLReader\obj\x86\Debug\pepXMLReader.exe
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\pepXMLReader\obj\x86\Debug\pepXMLReader.pdb
