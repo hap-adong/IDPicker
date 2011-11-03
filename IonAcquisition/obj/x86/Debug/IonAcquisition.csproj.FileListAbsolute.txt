@@ -1,0 +1,122 @@
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\IonAcquisition.exe.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\IonAcquisition.exe
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\IonAcquisition.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\IDPickerWorkspace.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\pwiz_bindings_cli.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\STL_Containers.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\Common.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\Interop.DataExplorer.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BaseCommon.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BaseDataAccess.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BaseError.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BaseTof.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\MassSpecDataReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BDal.CXt.Lc.Factory.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BDal.CXt.Lc.UntU2.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\BDal.CXt.Lc.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\agtsampleinforw.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\IDPickerWorkspace.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\Common.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\Interop.MSFileReaderLib.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\boost_regex-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\boost_thread-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\CompassXtractMS.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\fileio.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\fregistry.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\libfftw3-3.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\libfftw3f-3.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\MSFileReader.XRawfile2.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\NTB-vc80-mt-4_3_61.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\Interop.EDAL.SxS.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\MSFileReader.XRawfile2.SxS.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\Interop.MSFileReaderLib.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\IonAcquisition.csproj.ResolveComReference.cache
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\IonAcquisition.exe.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\IonAcquisition.exe
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\IonAcquisition.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.exe.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.exe
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\IDPickerWorkspace.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\pwiz_bindings_cli.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\STL_Containers.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\Common.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\Interop.DataExplorer.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BaseCommon.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BaseDataAccess.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BaseError.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BaseTof.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\MassSpecDataReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.Factory.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.UntU2.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\agtsampleinforw.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\IDPickerWorkspace.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\Common.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\Interop.MSFileReaderLib.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\boost_regex-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\boost_thread-vc80-mt-1_33_1-BDAL_20070424.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\CompassXtractMS.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\fileio.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\fregistry.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\libfftw3-3.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\libfftw3f-3.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\MSFileReader.XRawfile2.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\NTB-vc80-mt-4_3_61.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\Interop.EDAL.SxS.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\MSFileReader.XRawfile2.SxS.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\obj\x86\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\obj\x86\Debug\Interop.MSFileReaderLib.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.csproj.ResolveComReference.cache
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.exe.manifest
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.exe
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.exe.config
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.exe.config
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.exe.manifest
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.exe
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\IonAcquisition.pdb
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\IDPickerWorkspace.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\pwiz_bindings_cli.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\STL_Containers.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\Common.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\Interop.DataExplorer.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BaseCommon.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BaseDataAccess.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BaseError.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BaseTof.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\MassSpecDataReader.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.Factory.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.UntU2.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\BDal.CXt.Lc.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\Interop.EDAL.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\agtsampleinforw.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\IDPickerWorkspace.pdb
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\Common.pdb
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\Interop.MSFileReaderLib.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\boost_regex-vc80-mt-1_33_1-BDAL_20070424.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\boost_thread-vc80-mt-1_33_1-BDAL_20070424.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\CompassXtractMS.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\fileio.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\fregistry.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\libfftw3-3.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\libfftw3f-3.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\MSFileReader.XRawfile2.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\NTB-vc80-mt-4_3_61.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\Interop.EDAL.SxS.manifest
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\bin\Debug\MSFileReader.XRawfile2.SxS.manifest
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\obj\x86\Debug\Interop.EDAL.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\obj\x86\Debug\Interop.MSFileReaderLib.dll
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.csproj.ResolveComReference.cache
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.exe.manifest
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.exe
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\IonAcquisition\obj\x86\Debug\IonAcquisition.pdb

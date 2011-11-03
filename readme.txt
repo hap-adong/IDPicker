@@ -1,0 +1,3 @@
+Hello!
+Shit happens!
+Kick

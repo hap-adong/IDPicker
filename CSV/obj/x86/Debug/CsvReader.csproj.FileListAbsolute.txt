@@ -1,0 +1,10 @@
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\CSVReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\bin\Debug\CSVReader.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\CSVReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\ConsoleApplication1\obj\x86\Debug\CSVReader.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\CSV\bin\Debug\CSVReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\CSV\bin\Debug\CSVReader.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\CSV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\CSV\obj\x86\Debug\CSVReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\CSV\obj\x86\Debug\CSVReader.pdb

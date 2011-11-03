@@ -1,0 +1,5 @@
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\NistLibraryReader\bin\Debug\NistLibraryReader.exe
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\NistLibraryReader\bin\Debug\NistLibraryReader.pdb
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\NistLibraryReader\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\NistLibraryReader\obj\x86\Debug\NistLibraryReader.exe
+Z:\home\dwang\CodeBase\CSharp copied\Project\IDPicker\NistLibraryReader\obj\x86\Debug\NistLibraryReader.pdb
