@@ -133,10 +133,6 @@ namespace IDPReader
             double minDiff = Math.Abs(mz - best.mz);
             for (cur = min; cur.Current != max.Current; cur.MoveNext())
             {
-<<<<<<< HEAD
-                
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
                 double curDiff = Math.Abs(mz - cur.Current.mz);
                 if (curDiff < minDiff)
                 {
@@ -147,7 +143,6 @@ namespace IDPReader
             return best;
         }
 
-<<<<<<< HEAD
         /// <summary>
         ///  This function takes a set of peaks, iterate through the peaks 
         ///  and assign each fragment with a charge label with:
@@ -241,10 +236,6 @@ namespace IDPReader
             return finalPeakList;
         }
 
-
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
-
         //given a fragment ion sequence, return the amino acid composition (number of aa)
         public static int parseAAResidues(string pepSequence, char AA)
         {
@@ -284,11 +275,7 @@ namespace IDPReader
         ///have tons of information: theretical ion intensity, pep info, chargeLabel...
         ///</summary>
         
-<<<<<<< HEAD
         public static List<string> idpReader_original(string idpXMLFile, string mzMLFile, double TicCutoffPercentage, int z, List<string> pepList, List<string> output)
-=======
-        public static List<string> idpReader(string idpXMLFile, string mzMLFile, double TicCutoffPercentage, int z, List<string> pepList, List<string> output)
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
         {
             //get the path and filename of output csv file:
             string fileName = Path.GetFileNameWithoutExtension(idpXMLFile);
@@ -571,10 +558,7 @@ namespace IDPReader
         {
             //test
             //Console.WriteLine("test1");
-<<<<<<< HEAD
             int repeatitive = 0;
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 
             List<string> output = new List<string>();
             //get the path and filename of output csv file:
@@ -736,12 +720,8 @@ namespace IDPReader
                                     int pepBond = k;
                                     int NBasicAA = NR + NK + NH;
                                     int CBasicAA = CR + CK + CH;
-<<<<<<< HEAD
                                     string AA = NR + "," + NK + "," + NH + "," + NL + "," + CR + "," + CK + "," + CH + "," + CL;
-=======
-                                    string AA = NBasicAA + "," + CBasicAA + "," + NR + "," + NK + "," + NH + "," + NL + "," + CR + "," + CK + "," + CH + "," + CL;
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
-
+                                    //string AA = NBasicAA + "," + CBasicAA + "," + NR + "," + NK + "," + NH + "," + NL + "," + CR + "," + CK + "," + CH + "," + CL;
 
                                     double[] bCharge = new double[z + 1];
                                     double[] yCharge = new double[z + 1];
@@ -788,7 +768,6 @@ namespace IDPReader
                                     //to determine charge label, need to split by precursor charge
                                     //first need to make a metric to determine if all intensities are "0"
 
-<<<<<<< HEAD
                                     if (z == 2)
                                     {
                                         if (sumIntensity != 0)
@@ -809,8 +788,6 @@ namespace IDPReader
                                             rowDic.Add(pepBond, finalString);
                                         }
                                     }
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 
                                     if (z == 3)
                                     {
@@ -838,21 +815,12 @@ namespace IDPReader
                                             rowDic.Add(pepBond, finalString);
                                         }
                                     }
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
                                 }//end for each peptide bond
 
                                 //now we have: rowDic, intensityDic for each pep bond
                                 //and we have: and completeIntensityList for each peptide
                                 //the purpose of this is to remove such rows with duplicate matches
                                 duplicateList = Package.findCommon(completeIntensityList);
-<<<<<<< HEAD
-                                
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
                                 foreach (int bond in rowDic.Keys)
                                 {
                                     bool unique = true;
@@ -861,11 +829,8 @@ namespace IDPReader
                                         if (intensityDic[bond].Contains(inten))
                                         {
                                             unique = false;
-<<<<<<< HEAD
                                             repeatitive++;
-=======
                                             Console.WriteLine("kick");
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
                                             break;
                                         }
                                     }
@@ -876,10 +841,7 @@ namespace IDPReader
                                 }
                         }//end of boolcharge
                     }//end foreach peptide
-<<<<<<< HEAD
             Console.WriteLine(repeatitive);
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
             return output;
         }//end idpReader
 

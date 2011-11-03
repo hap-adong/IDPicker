@@ -10,11 +10,8 @@ namespace IDPReader
 
         public double mz;
         public double rankOrIntensity;
-<<<<<<< HEAD
         //added for the purpose of fragment ions for orbiorbi
         public int fragmentCharge;
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 
         public Peak(double mass, double rnkOrIntens)
         {
@@ -22,7 +19,6 @@ namespace IDPReader
             rankOrIntensity = rnkOrIntens;
         }
 
-<<<<<<< HEAD
         public Peak(double mass, double rnkOrIntens, int z)
         {
             mz = mass;
@@ -30,8 +26,6 @@ namespace IDPReader
             fragmentCharge = z;
         }
 
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
         public Peak(Peak pk)
         {
             mz = pk.mz;

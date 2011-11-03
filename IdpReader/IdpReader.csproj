@@ -64,15 +64,9 @@
     </Reference>
     <Reference Include="pwiz_bindings_cli, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-<<<<<<< HEAD
       <HintPath>..\..\..\idpicker\build-nt-x86\Common\obj\release\pwiz_bindings_cli.dll</HintPath>
     </Reference>
-    <Reference Include="STL_Containers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e1b14cb78f1752cf, processorArchitecture=MSIL">
-=======
-      <HintPath>..\..\..\idpicker\Common\bin\Debug\pwiz_bindings_cli.dll</HintPath>
-    </Reference>
     <Reference Include="STL_Containers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e1b14cb78f1752cf, processorArchitecture=x86">
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\idpicker\Common\bin\Debug\STL_Containers.dll</HintPath>
     </Reference>
@@ -118,12 +112,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-=======
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
     <NativeReference Include="Interop.EDAL.SxS, Version=1.0.0.0, Type=win32">
       <Name>Interop.EDAL.SxS.manifest</Name>
       <HintPath>..\..\..\idpicker\Common\bin\Debug\Interop.EDAL.SxS.manifest</HintPath>
@@ -133,12 +124,9 @@
       <HintPath>..\..\..\idpicker\Common\bin\Debug\MSFileReader.XRawfile2.SxS.manifest</HintPath>
     </NativeReference>
   </ItemGroup>
-<<<<<<< HEAD
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -22,9 +22,7 @@ namespace Pep2RNASeq
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             
-=======
             //Console.WriteLine("started");
             //string naive = "Z:\\home\\dwang\\fragmentation\\UPS\\naive\\klc_031308p_cptac_study6_6_QC1.idpXML";
             //string baso = "Z:\\home\\dwang\\fragmentation\\UPS\\basophilenew\\klc_031308p_cptac_study6_6_QC1.idpXML";
@@ -129,20 +127,16 @@ namespace Pep2RNASeq
             //for 3 search engines
             ////////////////////////////////////////////////////////////////////////
             /*
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
             //===========================================================
             string test_mm = "X:\\wangd5\\SW480\\MM\\FDR0.05\\mm.xml";
             string test_sq = "X:\\wangd5\\SW480\\SQ\\FDR0.05\\sq.xml";
             string test_xt = "X:\\wangd5\\SW480\\XT\\FDR0.05\\xt.xml";
             string test_p = "X:\\wangd5\\SW480\\evaluation\\p.csv";
 
-<<<<<<< HEAD
-=======
             //string test_mm = "Z:\\home\\dwang\\fragmentation\\RNA-Seq\\RKO\\Assemble_MM.xml";
             //string test_sq = "Z:\\home\\dwang\\fragmentation\\RNA-Seq\\RKO\\Assemble_SQ.xml";
             //string test_xt = "Z:\\home\\dwang\\fragmentation\\RNA-Seq\\RKO\\Assemble_XT.xml";
            
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
             //get peptides in p
             List<string> p = new List<string>();
             TextReader file_p = new StreamReader(test_p);
@@ -170,12 +164,9 @@ namespace Pep2RNASeq
             List<string> ms = Package.findCommon(m, s);
             List<string> xs = Package.findCommon(x, s);
             List<string> mxs = Package.findCommon(mx, s);
-<<<<<<< HEAD
            
 
 
-=======
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
 
             ///////////////////////////////////////////////////////////////////////////////////////
 
@@ -184,11 +175,8 @@ namespace Pep2RNASeq
             //also, the file contains the RNASeq information
             Dictionary<string, string> dic_RNASeq = new Dictionary<string, string>();
             TextReader file_csv = new StreamReader("X:\\wangd5\\SW480\\evaluation\\PepRNA_FDR1.csv");
-<<<<<<< HEAD
             //TextReader file_csv = new StreamReader("X:\\wangd5\\idpXML_FDR1.00\\score evaluation\\fdr1.0.csvn");
-=======
             //TextReader file_csv = new StreamReader("X:\\wangd5\\idpXML_FDR1.00\\score evaluation\\fdr1.0.csv");
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
             DataTable table = CSV.CsvParser.Parse(file_csv, true);
             foreach (DataRow dr in table.Rows)
             {
@@ -356,15 +344,9 @@ namespace Pep2RNASeq
             {
                 file.WriteLine(key + "," + dic_merge[key]);
             }
-<<<<<<< HEAD
-            
-             
         }
-=======
             */
              
         }//end of main
->>>>>>> 80fc9e47b4dafd28bcc96f478ae26543036b9ff6
-        
     }
 }
