@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IDPicker">
+</Property><Property Name="Solution File" Value="Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\IDPicker.sln">
+</Property><Property Name="Date" Value="Tuesday, November 23, 2010">
+</Property><Property Name="Time" Value="17:24:30 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Common.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\Common.csproj">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\AlphaIndex.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\AlphaIndex.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\BaseRunTimeConfig.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\BaseRunTimeConfig.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Histogram.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\Histogram.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Util.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\Util.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\app.config" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\app.config">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Properties\Settings.settings" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Common" Source="..\..\idpicker\Common\Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\idpicker\Common\Common.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

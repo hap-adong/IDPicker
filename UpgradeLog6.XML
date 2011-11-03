@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IDPicker">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\wangd5\csharp\Project\IDPicker\IDPicker.sln">
+</Property><Property Name="Date" Value="Thursday, February 03, 2011">
+</Property><Property Name="Time" Value="12:22:33 PM">
+</Property><Property Name="Log Number" Value="6">
+</Property></Properties><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Util.csproj" Description="Project file successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\Util.csproj">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\ExtensionMethods.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\ExtensionMethods.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Path.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\Path.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\String.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\String.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\TableExporter.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\TableExporter.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\UserDialog.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\UserDialog.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\UserDialog.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\UserDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Version.cs" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\Version.cs">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\app.config" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\app.config">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\UserDialog.resx" Description="File successfully backed up as C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Backup5\UserDialog.resx">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Util.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Util" Source="..\..\idpicker\Util\Util.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Util" Source="..\..\idpicker\Util\Util.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

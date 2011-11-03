@@ -1,0 +1,79 @@
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\Pro2RNASeq.exe
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\Pro2RNASeq.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\CSVReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\CSVReader.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\Pro2RNASeq.exe
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\Pro2RNASeq.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\IDPickerWorkspace.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\pwiz_bindings_cli.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\STL_Containers.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\Common.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\Interop.DataExplorer.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseCommon.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseDataAccess.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseError.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseTof.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\MassSpecDataReader.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.Factory.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.UntU2.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\agtsampleinforw.dll
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\STL_Containers.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\IDPickerWorkspace.pdb
+C:\Documents and Settings\wangd5\csharp\Project\IDPicker\Pro2RNASeq\bin\Debug\Common.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Pro2RNASeq.exe
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Pro2RNASeq.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\CSVReader.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\IDPickerWorkspace.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\pwiz_bindings_cli.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\STL_Containers.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Common.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Interop.DataExplorer.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseCommon.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseDataAccess.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseError.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseTof.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\MassSpecDataReader.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.Factory.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.UntU2.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Interop.EDAL.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\agtsampleinforw.dll
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\STL_Containers.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\IDPickerWorkspace.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\CSVReader.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Common.pdb
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\Pro2RNASeq.exe
+C:\Documents and Settings\wangd5\My Documents\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\Pro2RNASeq.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Pro2RNASeq.exe
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Pro2RNASeq.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\CSVReader.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\IDPickerWorkspace.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\pwiz_bindings_cli.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\STL_Containers.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Common.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Interop.DataExplorer.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseCommon.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseDataAccess.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseError.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BaseTof.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\MassSpecDataReader.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.Factory.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.Interfaces.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.UntU2.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\BDal.CXt.Lc.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Interop.EDAL.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\agtsampleinforw.dll
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\STL_Containers.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\IDPickerWorkspace.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\CSVReader.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\Common.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\Pro2RNASeq.exe
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\obj\x86\Debug\Pro2RNASeq.pdb
+C:\Users\Dong\bumbershoot\CodeBase\CSharp\IDPicker\Project\IDPicker\Pro2RNASeq\bin\Debug\pwiz_bindings_cli.xml

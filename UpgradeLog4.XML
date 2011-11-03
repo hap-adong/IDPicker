@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IDPicker">
+</Property><Property Name="Solution File" Value="Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\IDPicker.sln">
+</Property><Property Name="Date" Value="Tuesday, November 23, 2010">
+</Property><Property Name="Time" Value="17:25:46 PM">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\Workspace.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup3\Workspace.csproj">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\MetaDataTypes.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup3\MetaDataTypes.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\SpectrumQuantitation.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup3\SpectrumQuantitation.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\Workspace.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup3\Workspace.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\Types.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup3\Types.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\Workspace.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Workspace" Source="..\..\idpicker\Workspace\Workspace.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\idpicker\Workspace\Workspace.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IDPicker">
+</Property><Property Name="Solution File" Value="Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\IDPicker.sln">
+</Property><Property Name="User Options File" Value="Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\IDPicker.suo">
+</Property><Property Name="Date" Value="2010年11月23日">
+</Property><Property Name="Time" Value="14:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="IDPicker.sln" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\IDPicker.sln">
+</Event><Event ErrorLevel="0" Project="" Source="IDPicker.suo" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\IDPicker.suo">
+</Event><Event ErrorLevel="1" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Workspace.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Workspace.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Workspace\Workspace.csproj">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\MetaDataTypes.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Workspace\MetaDataTypes.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Workspace\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Workspace.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Workspace\Workspace.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Types.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Workspace\Types.cs">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Workspace.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Workspace.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Common" Source="..\..\IDPicker-2.6\Common\Common.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\Common.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Common\Common.csproj">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\AlphaIndex.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Common\AlphaIndex.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\BaseRunTimeConfig.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Common\BaseRunTimeConfig.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\Histogram.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Common\Histogram.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Common\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\Util.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Common\Util.cs">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Common" Source="..\..\IDPicker-2.6\Common\Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Presentation" Source="..\..\IDPicker-2.6\Presentation\Presentation.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Presentation" Source="..\..\IDPicker-2.6\Presentation\Presentation.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Presentation\Presentation.csproj">
+</Event><Event ErrorLevel="0" Project="Presentation" Source="..\..\IDPicker-2.6\Presentation\Presentation.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Presentation\Presentation.cs">
+</Event><Event ErrorLevel="0" Project="Presentation" Source="..\..\IDPicker-2.6\Presentation\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\Presentation\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Presentation" Source="..\..\IDPicker-2.6\Presentation\Presentation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Presentation" Source="..\..\IDPicker-2.6\Presentation\Presentation.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\STL_Containers.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\STL_Containers.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\STL_Containers\STL_Containers.csproj">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\Map.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\STL_Containers\Map.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\STL_Containers\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\RBTree.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\STL_Containers\RBTree.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\Set.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\STL_Containers\Set.cs">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\app.config" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\STL_Containers\app.config">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\STL_Containers.snk" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\STL_Containers\STL_Containers.snk">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\STL_Containers.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\STL_Containers.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IdpReader" Source="IdpReader\IdpReader.csproj" Description="Project file successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\IdpReader\IdpReader.csproj">
+</Event><Event ErrorLevel="0" Project="IdpReader" Source="IdpReader\IdpReader.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\IdpReader\IdpReader.cs">
+</Event><Event ErrorLevel="0" Project="IdpReader" Source="IdpReader\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\home\dwang\C#IdpReader\7-23-10\Project\IDPicker\Backup\IdpReader\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IdpReader" Source="IdpReader\IdpReader.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IdpReader" Source="IdpReader\IdpReader.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IDPicker.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IDPicker.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Workspace" Source="..\..\IDPicker-2.6\Workspace\Workspace.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Common" Source="..\..\IDPicker-2.6\Common\Common.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Presentation" Source="..\..\IDPicker-2.6\Presentation\Presentation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="STL_Containers" Source="..\..\IDPicker-2.6\Util\STL_Containers\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IdpReader" Source="IdpReader\IdpReader.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
